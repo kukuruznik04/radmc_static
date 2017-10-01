@@ -1,0 +1,80 @@
+<tiltviewergallery>
+	<photos>
+		<photo imageurl="imgs/18.jpg" showFlipButton="false">
+			<title>Medeo</title>
+		</photo>
+		
+		<photo imageurl="imgs/1.jpg" showFlipButton="false">
+			<title>Medeo</title>
+		</photo>
+		
+		<photo imageurl="imgs/2.JPG" >
+			<title>Park</title>
+		</photo>
+		
+		<photo imageurl="imgs/3.JPG" >
+			<title>B'day</title>
+		</photo>
+		
+		<photo imageurl="imgs/4.jpg" >
+			<title>Mega</title>
+		</photo>
+		
+		<photo imageurl="imgs/5.jpg" >
+			<title>AAA</title>
+		</photo>
+		
+		<photo imageurl="imgs/6.jpg" showFlipButton="false">
+			<title>School</title>
+		</photo>
+
+		<photo imageurl="imgs/7.JPG" showFlipButton="false">
+			<title>English</title>
+		</photo>
+		
+		<photo imageurl="imgs/8.jpg" showFlipButton="false">
+			<title>Happy</title>
+		</photo>
+			
+		<photo imageurl="imgs/9.jpg" showFlipButton="false">
+			<title>People</title>
+		</photo>
+			
+		<photo imageurl="imgs/10.jpg" showFlipButton="false">
+			<title>Box</title>
+		</photo>
+			
+		<photo imageurl="imgs/11.jpg" showFlipButton="false">
+			<title>Alex</title>
+		</photo>
+			
+		<photo imageurl="ava.jpg" showFlipButton="false">
+			<title>Avaatar</title>
+		</photo>
+
+		<photo imageurl="imgs/12.jpg" >
+			<title>Wall</title>
+		</photo>
+				
+		<photo imageurl="imgs/13.jpg" >
+			<title>With ma Sis</title>
+		</photo>
+		
+		<photo imageurl="imgs/14.jpg" >
+			<title>Ma eye</title>
+		</photo>
+		
+		<photo imageurl="imgs/15.jpg" >
+			<title>Ma day at school</title>
+		</photo>
+		
+		<photo imageurl="imgs/16.jpg" showFlipButton="false">
+			<title>Altyn</title>
+		</photo>
+		
+		<photo imageurl="imgs/17.jpg" showFlipButton="false">
+			<title>McRAD</title>
+		</photo>
+		
+	</photos>
+</tiltviewergallery>

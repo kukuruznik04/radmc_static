@@ -1,0 +1,69 @@
+   body {
+    font: 12pt Calibri, Arial, Helvetica, sans-serif; /* Шрифт на веб-странице */
+    background: black; /* Цвет фона */
+	background-image: url('fon.jpg');
+	background-position: top, center;
+    margin: 0; /* Убираем отступы */
+	background-attachment: fixed;
+background-position:center;
+background-size: cover;
+   }
+   h2 {
+    font-size: 22pt; /* Размер шрифта */
+    color: #752641; /* Цвет текста */
+    margin-bottom: 0; /* Отступ снизу */
+   }
+   #container {
+    width: 900px; /* Ширина макета */
+    margin: 0 auto; /* Выравниваем по центру */
+   }
+   #header {
+    height: 150px;
+	background-image: url('h_fon.jpg.png'); /* Цвет фона */
+	background-position:center;
+	background-repeat: no-repeat;
+    font-size: 20pt; /* Размер текста */
+    color: #edeed5; /* Цвет текста */
+    padding: 15px; /* Отступы вокруг текста */
+   }
+   
+   #line {
+    height: 30px;
+	font-size: 20pt; /* Размер текста */
+    color: #edeed5; /* Цвет текста */
+    
+   }
+   
+      #sidebar1 {
+border-right: 1px solid #DFDFDF;
+border-bottom: 1px solid #DFDFDF;
+border-top: 1px solid #DFDFDF;
+border-left: 1px solid #DFDFDF;
+    float: left; /* Обтекание по левому краю */
+    width: 160px; /* Ширина правой колонки */
+    margin-top: 15px; /* Отступ сверху */
+	color:white;
+
+   }
+   
+      #content p {
+    margin-top: 0.3em /* Отступ сверху */
+   }
+   
+   #sidebar {
+
+    padding: 10px; /* Отступы вокруг текста */
+    background: white; /* Цвет фона */
+	opacity: 0.8;
+	filter: alpha(Opacity=80);
+	}
+   #sidebar a {
+    color: #752641; /* Цвет ссылок */
+   }
+   #footer {
+    background-image: url('hd_f.jpg.png'); /* Цвет фона */
+	background-position: center;
+    color: #fff; /* Цвет текста */
+    padding: 5px; /* Отступы вокруг текста */
+    margin-top: 15px; /* Отступ сверху */
+   }
